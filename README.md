@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Preston Liger
-- 👀 I’m interested in Front End Developement
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning UI/UX
 
 <!---
